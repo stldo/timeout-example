@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "name": "timeout-example",
+  "author": "stldo",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.29.3",
+    "gatsby-source-filesystem": "^2.8.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
